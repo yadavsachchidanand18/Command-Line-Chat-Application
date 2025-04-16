@@ -24,7 +24,7 @@ This application allows users to interact through the command line interface by 
 com.chatter.platform ├── App.java // Main application logic
 ## How to Run
 1. Install Java JDK 8
-2. Clone the repository: git clone github_url
+2. Clone the repository: git clone repo_url
 3. navigate to the project directory: cd command-line-chat-app
 4. Compile the code: javac -d . src/com/chatter/platform/App.java
 5. Run the application: java com.chatter.platform.App
