@@ -21,7 +21,7 @@ This application allows users to interact through the command line interface by 
 - **Libraries Used:** Standard Java Collections (HashSet, HashMap, LinkedHashSet)
 
 ## 📂 Project Structure
-com.chatter.platform ├── App.java // Main application logic
+   src ├── App.java // Main application logic
 ## How to Run
 1. Install Java JDK 8
 2. Clone the repository: git clone repo_url
